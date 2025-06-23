@@ -9,7 +9,7 @@ This project implements a complete pipeline to detect and classify cars using de
 
 ## Installation
 
-Install the dependencies:
+Install the dependencies: Python 3.10.8
 
 ```bash
 pip install -r requirements.txt
