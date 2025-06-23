@@ -46,7 +46,7 @@ Output:
 
 
 
-## 🧠 Classes Used (Example)
+## Classes Used (Example)
 
 ```python
 ['MPV', 'Mobil Pickup', 'Off-Road', 'SUV', 'Sedan', 'Truck']
