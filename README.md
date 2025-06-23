@@ -46,25 +46,9 @@ Output:
 
 
 
-
----
-
 ## 🧠 Classes Used (Example)
 
 ```python
 ['MPV', 'Mobil Pickup', 'Off-Road', 'SUV', 'Sedan', 'Truck']
 ```
 
----
-
-## 📜 License
-
-MIT License
-
----
-
-## 🙏 Acknowledgments
-
-- [PyTorch](https://pytorch.org/)
-- [Torchvision Models](https://pytorch.org/vision/stable/models.html)
-- Custom vehicle dataset from Indonesian traffic scenes
