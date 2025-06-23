@@ -1,4 +1,4 @@
-# 🚗 Car Detection and Classification with PyTorch
+# Car Detection and Classification with PyTorch
 
 This project implements a complete pipeline to detect and classify cars using deep learning. The system uses:
 
@@ -7,7 +7,7 @@ This project implements a complete pipeline to detect and classify cars using de
 
 ---
 
-## 🔧 Installation
+## Installation
 
 Install the dependencies:
 
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧪 Evaluation
+## Evaluation
 
 After training, the script will output:
 
@@ -27,7 +27,7 @@ After training, the script will output:
 
 ---
 
-## 🎥 Run Inference on Video
+##  Run Inference on Video
 
 To run detection and classification on a video:
 
