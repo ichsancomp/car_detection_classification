@@ -30,7 +30,7 @@ After training, the script will output:
 ##  Run Inference on Video
 
 To run detection and classification on a video:
-
+Video test can be download from https://intip.in/QNpw
 ```bash
 python3 run_demo.py	--mode train #Trains and evaluates model.
 python3 run_demo.py	--mode video #Runs detection on video using trained model.
